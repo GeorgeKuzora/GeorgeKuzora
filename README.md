@@ -36,7 +36,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Learning Golang.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and read tech articles. [![LeetCode user rafale87](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=blue&color=slategray&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frafale87&logo=leetcode&logoColor=yellow)](https://leetcode.com/rafale87/)
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-GeorgiyKuzora-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GeorgiyKuzora)
 
