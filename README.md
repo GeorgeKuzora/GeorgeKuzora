@@ -34,7 +34,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
-- :seedling: Learnig Golang.
+- :seedling: Learning Golang.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
@@ -72,7 +72,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### :writing_hand: Blog Posts :
+## :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 - [Работа с Docker Compose](http://georgiykuzora.ru/post/docker-compose/)
@@ -80,6 +80,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - [Базовая работа с Nginx и Apache2](http://georgiykuzora.ru/post/nginx-basic-config/)
 - [Проект - бэкэнд сайта для публикации блогов](http://georgiykuzora.ru/post/django-blog-site/)
 <!-- BLOG-POST-LIST:END -->
+
+#### You can find more blogposts on [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://georgiykuzora.ru)
 
 <!--
 - 🔭 I’m currently working on ...
