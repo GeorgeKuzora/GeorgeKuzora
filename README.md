@@ -75,6 +75,10 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с Docker Compose](http://georgiykuzora.ru/post/docker-compose/)
+- [Как использовать tail и grep для дебагинга](http://georgiykuzora.ru/post/tail-grep/)
+- [Базовая работа с Nginx и Apache2](http://georgiykuzora.ru/post/nginx-basic-config/)
+- [Проект - бэкэнд сайта для публикации блогов](http://georgiykuzora.ru/post/django-blog-site/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
