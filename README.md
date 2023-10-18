@@ -1,7 +1,10 @@
+  <h1 align="center">
+    Welcome to Georgiy's GitHub
+    <img src="https://camo.githubusercontent.com/52cf3064d47e730f911bffbcaaefc55a8a4040bcdec4ab2e035917e005233841/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d30646d4b426b6e635645544a76326830532f67697068792e676966" width="30px"/>
+  </h1>
 <div id="header" align="center">
   <img src="https://georgiykuzora.ru/img/linux.gif" width="100"/>
 </div>
-
 <div id="badges" align="center">
   <a href="https://t.me/GeorgiyKuzora">
     <img src="https://img.shields.io/badge/ Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
@@ -17,10 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=GeorgeKuzora&style=flat-square&color=blue" alt="My Profile Views"/>
 </div>
 <div id="greetings" align="center">
-  <h3>
-    Greetings
-    <img src="https://camo.githubusercontent.com/52cf3064d47e730f911bffbcaaefc55a8a4040bcdec4ab2e035917e005233841/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d30646d4b426b6e635645544a76326830532f67697068792e676966" width="30px"/>
-  </h3>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA2NW1zNDF6bWJoeXBmaWQwcDR1MTA3b2M5Nm9heWNsb2p5cHRrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"/>
