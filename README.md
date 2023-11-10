@@ -33,7 +33,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
-- :seedling: Learning Golang.
+- :seedling: Expanding my software development knowledge.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles. [![LeetCode user rafale87](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=blue&color=slategray&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frafale87&logo=leetcode&logoColor=yellow)](https://leetcode.com/rafale87/)
 
