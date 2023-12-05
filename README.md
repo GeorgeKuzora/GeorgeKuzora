@@ -27,7 +27,7 @@
 
 ---
 
-## :man_technologist: About Me :
+## About Me:
 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
@@ -41,7 +41,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-## :hammer_and_wrench: Languages and Tools :
+## Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyhton" alt="Python" width="40" height="40"/>&nbsp;
@@ -63,7 +63,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-## :fire: My Stats :
+## My Stats:
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=GeorgeKuzora&theme=material-palenight&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
@@ -71,7 +71,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-## :writing_hand: Latest Blog Posts :
+## Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Правильная установка Fedora Linux](http://georgiykuzora.ru/post/fedora-install/)
