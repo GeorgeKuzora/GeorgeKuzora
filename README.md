@@ -74,10 +74,10 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ## Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Fedora Post Install](http://georgiykuzora.ru/post/fedora-post-install/)
 - [Правильная установка Fedora Linux](http://georgiykuzora.ru/post/fedora-install/)
 - [Динамическое программирование](http://georgiykuzora.ru/post/dynamic-programming/)
 - [Работа с Docker Compose](http://georgiykuzora.ru/post/docker-compose/)
-- [Как использовать tail и grep для дебагинга](http://georgiykuzora.ru/post/tail-grep/)
 <!-- BLOG-POST-LIST:END -->
 
 #### You can find more blogposts on [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://georgiykuzora.ru)
