@@ -74,10 +74,10 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ## Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дипломная работа - Веб приложение для поиска автосервисов &lpar;writing in public&rpar;](http://georgiykuzora.ru/post/diploma-gb/)
 - [Контейнер с dev-сервером Django](http://georgiykuzora.ru/post/local_django_dev_server/)
 - [Fedora Post Install](http://georgiykuzora.ru/post/fedora-post-install/)
 - [Правильная установка Fedora Linux](http://georgiykuzora.ru/post/fedora-install/)
-- [Динамическое программирование](http://georgiykuzora.ru/post/dynamic-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 #### You can find more blogposts on [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://georgiykuzora.ru)
