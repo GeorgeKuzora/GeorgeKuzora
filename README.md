@@ -1,5 +1,5 @@
   <h1 align="center">
-    Welcome to Georgiy's GitHub 🎑
+    Welcome to Georgiy's GitHub
   </h1>
 <div id="header" align="center">
   <img src="https://georgiykuzora.ru/img/linux.gif" width="100"/>
