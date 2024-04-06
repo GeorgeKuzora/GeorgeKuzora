@@ -1,6 +1,5 @@
   <h1 align="center">
-    Welcome to Georgiy's GitHub
-    <img src="https://camo.githubusercontent.com/52cf3064d47e730f911bffbcaaefc55a8a4040bcdec4ab2e035917e005233841/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d30646d4b426b6e635645544a76326830532f67697068792e676966" width="30px"/>
+    Welcome to Georgiy's GitHub 🎑
   </h1>
 <div id="header" align="center">
   <img src="https://georgiykuzora.ru/img/linux.gif" width="100"/>
