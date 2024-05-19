@@ -32,9 +32,11 @@ I am a Backend Developer.
 
 - :hammer_and_wrench: I work as a Software Engineer and build web-services and apps in Go and Python.
 
-- :seedling: Expanding my software development knowledge.
+- :seedling: I constantly learn. I expand my knowledge about Golang and Python and I immerse myself in a world of distributed services and micro-services.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles. [![LeetCode user rafale87](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=blue&color=slategray&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frafale87&logo=leetcode&logoColor=yellow)](https://leetcode.com/rafale87/)
+- :classical_building: Besides software projects I'm interested in Philosophy, Mindfulness and Stoicism.
+
+In my free time, I solve problems on LeetCode and read tech articles. [![LeetCode user rafale87](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=blue&color=slategray&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frafale87&logo=leetcode&logoColor=yellow)](https://leetcode.com/rafale87/)
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-GeorgiyKuzora-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GeorgiyKuzora)
 
