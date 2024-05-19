@@ -77,7 +77,6 @@ I am a Backend Developer.
 ## Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Веб-приложение - поиск автосервисов](http://georgiykuzora.ru/post/diploma-gb/)
 - [Контейнер с dev-сервером Django](http://georgiykuzora.ru/post/local_django_dev_server/)
 - [Fedora Post Install](http://georgiykuzora.ru/post/fedora-post-install/)
