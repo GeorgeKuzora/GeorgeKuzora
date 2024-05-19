@@ -30,7 +30,7 @@
 
 I am a Backend Developer.
 
-- :hammer and wrench: I work as a Software Engineer and build web-services and apps in Go and Python.
+- :hammer_and_wrench: I work as a Software Engineer and build web-services and apps in Go and Python.
 
 - :seedling: Expanding my software development knowledge.
 
