@@ -38,9 +38,9 @@ I am a Backend Developer.
 
 - :black_nib: Also I have my personal blog about tech, foreign languages and mindfulness. [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://gkuzora.ru)
 
-- In my free time, I solve problems on LeetCode and read tech articles. [![LeetCode user rafale87](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=blue&color=slategray&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frafale87&logo=leetcode&logoColor=yellow)](https://leetcode.com/rafale87/)
+- :light_bulb: In my spare time, I solve problems on LeetCode. [![LeetCode user rafale87](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=blue&color=slategray&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Frafale87&logo=leetcode&logoColor=yellow)](https://leetcode.com/rafale87/)
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-GeorgiyKuzora-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GeorgiyKuzora)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-GeorgiyKuzora-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GeorgiyKuzora)
 
 ---
 
