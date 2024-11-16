@@ -68,8 +68,6 @@ I am a Backend Developer.
 
 ## My Stats:
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=GeorgeKuzora&theme=material-palenight&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-
 [![George's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeKuzora&theme=material-palenight&show_icons=true&layout=compact&&exclude_repo=dotfiles-fedora,dotfiles)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
