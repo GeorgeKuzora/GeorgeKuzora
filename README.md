@@ -1,7 +1,7 @@
     Welcome to Georgiy's GitHub
   </h1>
 <div id="header" align="center">
-  <img src="https://georgiykuzora.ru/img/linux.gif" width="100"/>
+  <img src="./assets/cute_wallpaper.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/GeorgiyKuzora">
