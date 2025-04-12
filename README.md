@@ -1,5 +1,6 @@
-    Welcome to Georgiy's GitHub
-  </h1>
+<h1 align="center">
+  Welcome to Georgiy's GitHub
+</h1>
 <div id="header" align="center">
   <img src="./assets/cute_wallpaper.gif" width="100"/>
 </div>
