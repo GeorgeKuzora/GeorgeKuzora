@@ -25,8 +25,6 @@
     <p><i><span style="font-family: 'Courier New', Courier, monospace; font-size: 18px; color: #00FF00;">Hi, I'm Georgiy Kuzora, a software engineer from Russia.</span></i></p>
 </div>
 
----
-
 ## About Me
 
 I am a passionate Backend Developer with a keen interest in crafting efficient and scalable web services and applications. My expertise lies in Go, Python, and Rust, and I am always eager to expand my knowledge and explore new technologies.
@@ -40,8 +38,6 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
 - :black_nib: I maintain a personal blog where I share insights on technology, foreign languages, and mindfulness. [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://gkuzora.ru)
 
 - :mailbox: You can reach me via: [![Telegram Badge](https://img.shields.io/badge/-GeorgiyKuzora-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GeorgiyKuzora)
-
----
 
 ## Languages and Tools
 
@@ -63,8 +59,6 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>&nbsp;
 </div>
 
----
-
 ## My Stats
 
 <a href="https://github.com/GeorgeKuzora">
@@ -73,8 +67,6 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
 <a href="https://github.com/GeorgeKuzora">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeKuzora&theme=catppuccin_mocha&layout=compact&langs_count=8&card_width=320" />
 </a>
-
----
 
 ## Latest Blog Posts
 
