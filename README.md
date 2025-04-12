@@ -67,9 +67,10 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
 
 ## My Stats:
 
-[![George's Top Langs](https://github-readme-stats.vercel.app/api/?username=GeorgeKuzora&theme=catppuccin_mocha&show_icons=true&layout=compact&&exclude_repo=dotfiles-fedora,dotfiles)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![George's Top Langs](https://github-readme-stats.vercel.app/api/?username=GeorgeKuzora&theme=catppuccin_mocha&show_icons=true&layout=compact&&exclude_repo=dotfiles-fedora,dotfiles)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![George's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeKuzora&theme=catppuccin_mocha&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## Latest Blog Posts:
