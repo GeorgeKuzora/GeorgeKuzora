@@ -1,4 +1,3 @@
-  <h1 align="center">
     Welcome to Georgiy's GitHub
   </h1>
 <div id="header" align="center">
@@ -21,7 +20,7 @@
 <div id="greetings" align="center">
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODA2NW1zNDF6bWJoeXBmaWQwcDR1MTA3b2M5Nm9heWNsb2p5cHRrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"/>
+  <img src="./assets/japan_autumn.gif" width="600" height="300"/>
 </div>
 
 ---
