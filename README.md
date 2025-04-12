@@ -87,8 +87,6 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
 
 #### You can find more blogposts on [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://georgiykuzora.ru)
 
----
-
 <div id="header" align="center">
   <img src="./assets/cute_wallpaper.gif" width="300"/>
 </div>
