@@ -18,8 +18,8 @@
 <div id="profile_views" align="center">
   <img src="https://komarev.com/ghpvc/?username=GeorgeKuzora&style=flat-square&color=blue" alt="My Profile Views"/>
 </div>
-<div id="header" align="center">
-  <img src="./assets/cute_wallpaper.gif" width="300"/>
+<div align="center">
+  <img src="./assets/productivity.gif" width="600" height="300"/>
 </div>
 <div id="greetings" align="center">
     <p><i><span style="font-family: 'Courier New', Courier, monospace; font-size: 18px; color: #00FF00;">Hi, I'm Georgiy Kuzora, a software engineer from Russia.</span></i></p>
@@ -78,3 +78,7 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
 <!-- BLOG-POST-LIST:END -->
 
 #### You can find more blogposts on [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://georgiykuzora.ru)
+
+<div id="header" align="center">
+  <img src="./assets/cute_wallpaper.gif" width="300"/>
+</div>
