@@ -1,5 +1,6 @@
-    Welcome to Georgiy's GitHub
-  </h1>
+<h1 align="center">
+  Welcome to My GitHub
+</h1>
 <div id="header" align="center">
   <img src="./assets/linux.gif" width="100"/>
 </div>
@@ -17,11 +18,11 @@
 <div id="profile_views" align="center">
   <img src="https://komarev.com/ghpvc/?username=GeorgeKuzora&style=flat-square&color=blue" alt="My Profile Views"/>
 </div>
-<div id="greetings" align="center">
-    <p><i><span style="font-family: 'Courier New', Courier, monospace; font-size: 18px; color: #00FF00;">Hi, I'm Georgiy Kuzora, a software engineer from Russia.</span></i></p>
-</div>
 <div align="center">
   <img src="./assets/productivity.gif" width="600" height="300"/>
+</div>
+<div id="greetings" align="center">
+    <p><i><span style="font-family: 'Courier New', Courier, monospace; font-size: 18px; color: #00FF00;">Hi, I'm Georgiy Kuzora, a software engineer from Russia.</span></i></p>
 </div>
 
 ---
