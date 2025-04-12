@@ -80,7 +80,7 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeKuzora&theme=catppuccin_mocha&rank_icon=github&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeKuzora&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeKuzora&theme=catppuccin_mocha&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ---
