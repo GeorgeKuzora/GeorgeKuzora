@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Georgiy's GitHub
+  Welcome to My GitHub
 </h1>
 <div id="header" align="center">
   <img src="./assets/cute_wallpaper.gif" width="100"/>
