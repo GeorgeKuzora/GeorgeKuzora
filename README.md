@@ -29,17 +29,17 @@
 
 ## About Me:
 
-I am a Backend Developer.
+I am a passionate Backend Developer with a keen interest in crafting efficient and scalable web services and applications. My expertise lies in Go, Python, and Rust, and I am always eager to expand my knowledge and explore new technologies.
 
-- :hammer_and_wrench: I work as a Software Engineer and build web-services and apps in Go, Python and Rust.
+- :hammer_and_wrench: As a Software Engineer, I specialize in building robust web services and applications that meet high standards of performance and reliability.
 
-- :seedling: I constantly learn. I expand my knowledge about Golang and Rust and I immerse myself in a world of distributed services and micro-services.
+- :seedling: I am committed to continuous learning and growth. Currently, I am deepening my understanding of Golang and Rust, and I am fascinated by the world of distributed systems and microservices.
 
-- :classical_building: Besides software projects I'm interested in Philosophy, Mindfulness and Stoicism.
+- :classical_building: Beyond software development, I have a strong interest in Philosophy, Mindfulness, and Stoicism.
 
-- :black_nib: Also I have my personal blog about tech, foreign languages and mindfulness. [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://gkuzora.ru)
+- :black_nib: I maintain a personal blog where I share insights on technology, foreign languages, and mindfulness. [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://gkuzora.ru)
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-GeorgiyKuzora-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GeorgiyKuzora)
+- :mailbox: You can reach me via: [![Telegram Badge](https://img.shields.io/badge/-GeorgiyKuzora-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GeorgiyKuzora)
 
 ---
 
