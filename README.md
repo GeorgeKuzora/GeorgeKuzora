@@ -90,5 +90,5 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
 ---
 
 <div id="header" align="center">
-  <img src="./assets/red_pattern.gif" width="300"/>
+  <img src="./assets/cute_wallpaper.gif" width="300"/>
 </div>
