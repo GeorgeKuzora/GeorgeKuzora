@@ -27,7 +27,7 @@
 
 ---
 
-## About Me:
+## About Me
 
 I am a passionate Backend Developer with a keen interest in crafting efficient and scalable web services and applications. My expertise lies in Go, Python, and Rust, and I am always eager to expand my knowledge and explore new technologies.
 
@@ -43,7 +43,7 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
 
 ---
 
-## Languages and Tools:
+## Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyhton" alt="Python" width="40" height="40"/>&nbsp;
@@ -65,27 +65,18 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
 
 ---
 
-## My Stats:
+## My Stats
 
 <a href="https://github.com/GeorgeKuzora">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeKuzora&theme=catppuccin_mocha&rank_icon=github&show_icons=true" />
 </a>
-
 <a href="https://github.com/GeorgeKuzora">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeKuzora&theme=catppuccin_mocha&show_icons=true&layout=compact&&exclude_repo=dotfiles-fedora,dotfiles&card_width=320" />
-</a>
-
-
-<a href="https://github.com/GeorgeKuzora">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeKuzora&theme=catppuccin_mocha&rank_icon=github&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeKuzora&theme=catppuccin_mocha&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ---
 
-## Latest Blog Posts:
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Конфигурация окружения разработчика при помощи Nix](http://georgiykuzora.ru/post/nix/)
