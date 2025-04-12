@@ -2,7 +2,7 @@
   Welcome to My GitHub
 </h1>
 <div id="header" align="center">
-  <img src="./assets/cool_pattern.gif" width="300"/>
+  <img src="./assets/productivity.gif" height="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/GeorgiyKuzora">
@@ -17,8 +17,6 @@
 </div>
 <div id="profile_views" align="center">
   <img src="https://komarev.com/ghpvc/?username=GeorgeKuzora&style=flat-square&color=blue" alt="My Profile Views"/>
-</div>
-<div id="greetings" align="center">
 </div>
 
 ---
