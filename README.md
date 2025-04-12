@@ -20,7 +20,7 @@
 <div id="greetings" align="center">
 </div>
 <div align="center">
-  <img src="./assets/lazy_coding.gif" width="600" height="300"/>
+  <img src="./assets/productivity.gif" width="600" height="300"/>
 </div>
 
 ---
