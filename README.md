@@ -71,10 +71,10 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Нужнен ли навык быстрой слепой печати в эпоху ИИ?](http://georgiykuzora.ru/post/typing/)
 - [Конфигурация окружения разработчика при помощи Nix](http://georgiykuzora.ru/post/nix/)
 - [Размышления о развитии разума](http://georgiykuzora.ru/post/rasum/)
 - [Веб-приложение - поиск автосервисов](http://georgiykuzora.ru/post/diploma-gb/)
-- [Контейнер с dev-сервером Django](http://georgiykuzora.ru/post/local_django_dev_server/)
 <!-- BLOG-POST-LIST:END -->
 
 #### You can find more blogposts on [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://georgiykuzora.ru)
