@@ -71,10 +71,10 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Нужнен ли навык быстрой слепой печати в эпоху ИИ?](http://georgiykuzora.ru/post/typing/)
-- [Конфигурация окружения разработчика при помощи Nix](http://georgiykuzora.ru/post/nix/)
-- [Размышления о развитии разума](http://georgiykuzora.ru/post/rasum/)
-- [Веб-приложение - поиск автосервисов](http://georgiykuzora.ru/post/diploma-gb/)
+- [Нужнен ли навык быстрой слепой печати в эпоху ИИ?](http://localhost:1313/post/typing/)
+- [Конфигурация окружения разработчика при помощи Nix](http://localhost:1313/post/nix/)
+- [Размышления о развитии разума](http://localhost:1313/post/rasum/)
+- [Веб-приложение - поиск автосервисов](http://localhost:1313/post/diploma-gb/)
 <!-- BLOG-POST-LIST:END -->
 
 #### You can find more blogposts on [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://georgiykuzora.ru)
