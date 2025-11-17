@@ -67,7 +67,3 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
 <a href="https://github.com/GeorgeKuzora">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeKuzora&theme=catppuccin_mocha&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-<div id="header" align="center">
-  <img src="./assets/cute_wallpaper.gif" width="300"/>
-</div>
