@@ -68,16 +68,7 @@ I am a passionate Backend Developer with a keen interest in crafting efficient a
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeKuzora&theme=catppuccin_mocha&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Нужнен ли навык быстрой слепой печати в эпоху ИИ?](http://localhost:1313/post/typing/)
-- [Конфигурация окружения разработчика при помощи Nix](http://localhost:1313/post/nix/)
-- [Размышления о развитии разума](http://localhost:1313/post/rasum/)
-- [Веб-приложение - поиск автосервисов](http://localhost:1313/post/diploma-gb/)
-<!-- BLOG-POST-LIST:END -->
-
-#### You can find more blogposts on [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://georgiykuzora.ru)
+## You can find my blogposts on [![GeorgiyKuzora.ru Badge](https://img.shields.io/badge/-GeorgiyKuzora.ru-blue?style=flat&logo=hugo&logoColor=white)](https://georgiykuzora.ru)
 
 <div id="header" align="center">
   <img src="./assets/cute_wallpaper.gif" width="300"/>
